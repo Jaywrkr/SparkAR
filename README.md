@@ -16,7 +16,7 @@
 [DOWNLOAD SPARKAR](https://sparkar.facebook.com/ar-studio/download)
 
 
-#### [Official Documentation](https://sparkar.facebook.com/ar-studio/learn/documentation)
+#### Official Documentation
 [Guides](https://sparkar.facebook.com/ar-studio/learn/documentation/guides)
 
 [Sample Effects](https://sparkar.facebook.com/ar-studio/learn/documentation/sample-effects)
