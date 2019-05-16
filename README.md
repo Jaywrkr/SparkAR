@@ -1,4 +1,8 @@
 # SparkAR
+All you need to start and improve your skills in SparkAR!!!
+
+
+NOTE: If you want to upload your filters/effects to Instagram you need to submit a request/invitation for being part of the Instagram Beta Program in [here](https://www.facebook.com/arp/ig/beta?hc_location=ufi). Waiting time in average is 3/4 months.
 
 - [Official Documentation](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#official-documentation)
 - [Useful Links](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#useful-links)
@@ -85,6 +89,9 @@
 - [@A.H.Mitchell](https://www.instagram.com/A.H.Mitchell/)
 - [@after_form](https://www.instagram.com/after_form/)
 
+### FAQ
+- How can I upload my effects/filters to Instagram?.
+If you want to upload your filters/effects to Instagram you need to submit a request/invitation for being part of the Instagram Beta Program in [here](https://www.facebook.com/arp/ig/beta?hc_location=ufi). Waiting time in average is 3/4 months.
 
 
 
