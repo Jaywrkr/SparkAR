@@ -1,10 +1,12 @@
 # SparkAR
-Information about SparkAR
+Information about SparkAR.
+
+## Documentation
 
 ## YouTube Channels
 
 ## Community
 
-## Documentation
+## Articles
 
 ## Inspiration
