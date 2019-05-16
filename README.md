@@ -1,5 +1,15 @@
 # SparkAR
-Information, tutorials, links, inspiration and more about SparkAR.
+
+- Official Documentation
+- Useful Links
+- YouTube Channels
+- Videos 
+- Communitites
+- Articles
+- GitHub
+- Guidelines
+- Inspiration
+- FAQ
 
 [DOWNLOAD SPARKAR](https://sparkar.facebook.com/ar-studio/download)
 
