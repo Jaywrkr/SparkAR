@@ -60,6 +60,7 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 
 
 ### Articles
+- [Gaussian Blur on Spark AR Studio - Hayato Kuno](https://medium.com/birdman-inc/gaussian-blur-on-spark-ar-studio-833e171160d5?fbclid=IwAR3izq-tgxjE7iNAlPHjzQ5JPWQwNbMKh9acUp6SdZMNwjsIWI7aW8sw0IU)
 - [10 Things You Need To Know About Spark AR - Diego Aguirre](https://medium.com/@geekydiego/10-things-you-need-to-know-about-spark-ar-baad07b2a293?fbclid=IwAR2iXeL7EccsE4MTUFbXYJ1WSYXcsUK0uqFSZ9d3yM1HFOGkEDv9ngJYF3k)
 - [How to connect Spark AR Studio(Facebook) to Backend Server, Firebase Database - Seunghun Sunmoon Lee](https://medium.com/@seunghunsunmoonlee/how-to-connect-spark-ar-studio-facebook-to-backend-server-database-4de75b5ef20f)
 - [Using Spark AR Studio for UX Design - Katie Trent](https://blog.truthlabs.com/using-spark-ar-studio-for-ux-design-8c4ddd92563f)
