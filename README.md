@@ -72,11 +72,18 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 
 
 ### GitHub
+- [Face Filter - Blink Running Game with AR Spark Studio - SIBATUR](https://github.com/sibaturaspirman/facefilter-blinkrunninggame)
+- [Color lookup tables (LUTs) - PositLabs](https://github.com/positlabs/spark-lut-patch?fbclid=IwAR0HAMyquOkOpS4zHRgkdQ9ue99wnR0SO5ChYSeSqyandIrC05S9vGfCqzc)
+- [Flickr Sphere - PositLabs](https://github.com/positlabs/spark-flickr-sphere?fbclid=IwAR1fk6GoN5EDCcU64pmPMWwnQRFvyW9LiWwWsxfuGmzI9cykBnAMId2OL9c)
+- [Script & patch for local time info - PositLabs](https://github.com/positlabs/spark-localtime)
+- [Convolution and other super-patches (blur, sharpen) - PositLabs](https://github.com/positlabs/spark-convolution-patch?fbclid=IwAR3KEkoyJo12bUS8bPqhnVzjdpt-llD0O_ZASXhOuqf4K9WzFvPfg5J6byw)
+- [Various tonemapping patches for Spark AR- PositLabs](https://github.com/positlabs/spark-tonemap-patch?fbclid=IwAR2EPWUzyrhMRe7UcYvyJJAF4swgyS8pGYjmKJFk2wD4W57c5U6_EplsgSw)
 - [Photobooth - Spark AR - Max Weisel](https://github.com/maxw/Spark-AR-Photobooth?fbclid=IwAR2LXszIKPAH-fR5QJ5epJS25TstNW8_MwC39-BXa4jWctnoGuwxGIWkxck)
 - [FaceLess Patch - LOLO](https://github.com/armdz/Spark-Ar/tree/master/FaceLess?fbclid=IwAR2vnZvqW_eK5BBePoXvXipoa92eqkVgNcN79Zr47gy6lHha6Ji1bB5V0xI)
 - [Ar Studio / Ar Spark shaders. - Guido Corallo](https://github.com/gcorallo/SparkArShaders)
 - [Solution to each tutorial on the AR Studio website - ](https://github.com/Jam3/interns-ar-studio-tutorials)
 - [Some utility patches for Spark AR - Muhammad Syahman](https://github.com/fukarinka/spark-ar-patches)
+
 
 
 ### Guidelines
@@ -93,6 +100,13 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 ### FAQ
 - How can I upload my effects/filters to Instagram?.
 If you want to upload your filters/effects to Instagram you need to submit a request/invitation for being part of the Instagram Beta Program in [here](https://www.facebook.com/arp/ig/beta?hc_location=ufi). Waiting time in average is 3/4 months.
-
+- Is it possible to somehow speed up the process of being accepted for Beta?
+Nope.
+- If I edit the name of my effect, will I encounter any issues? Will it loose my impression count?
+No issues.
+- Can I use the telephone function out of an Ar effect?
+No.
+- Is it possible to use two cameras simultaneously? ie. I want to project on a back camera what's happening on front.
+No.
 
 
