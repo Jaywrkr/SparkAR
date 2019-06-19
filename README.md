@@ -12,6 +12,7 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 - [Articles](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#articles)
 - [GitHub](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#github)
 - [Guidelines](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#guidelines)
+- [Gumroad](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#gumroad)
 - [Inspiration](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#inspiration)
 - [FAQ](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#faq)
 
@@ -29,8 +30,6 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 ### Useful Links
 ##### Apply to create effects for Instagram
 - [INSTAGRAM Closed Beta Link](https://www.facebook.com/arp/ig/beta?hc_location=ufi)
-
-
 
 ### YouTube Channels
 - [SparkAR Studio - Official](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3YTAnK4PkLCAuB1niVQKhy)
@@ -56,8 +55,12 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 - [SparkAR Facebook Community](https://www.facebook.com/groups/SparkARcommunity/)
 (Inside this group people tend to ask about advises, share their filters and ask about feedback to other creators)
 
+
 *Text and information from Diego Aguirre article "[10 Things You Need To Know About Spark AR](https://medium.com/@geekydiego/10-things-you-need-to-know-about-spark-ar-baad07b2a293?fbclid=IwAR2iXeL7EccsE4MTUFbXYJ1WSYXcsUK0uqFSZ9d3yM1HFOGkEDv9ngJYF3k)"
 
+- [Reddit community](https://www.reddit.com/r/SparkARSquad/)
+- [Russian Telegram commmunity](https://t.me/sparkardev?fbclid=IwAR029qOZ1wHTJJZF519ivRnmuaNFg4dRGy7-__30RJOyYz7Izm6LjL6qGR4)
+- [English Telegram commmunity](https://t.me/sparkarenglish?fbclid=IwAR0W7u2ewhqm-D1YE4STI1mnKisLKSi-hkvvD19acXTsfuiFJALvsX4pmkc)
 
 ### Articles
 - [Gaussian Blur on Spark AR Studio - Hayato Kuno](https://medium.com/birdman-inc/gaussian-blur-on-spark-ar-studio-833e171160d5?fbclid=IwAR3izq-tgxjE7iNAlPHjzQ5JPWQwNbMKh9acUp6SdZMNwjsIWI7aW8sw0IU)
@@ -72,6 +75,7 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 
 
 ### GitHub
+- [SparkAR-CryptoKittis - dAAAb](https://github.com/dAAAb/SparkAR-CryptoKitties?fbclid=IwAR1vtuOPOn5p2JpzDti7h6EY7zBS_hT971jmxneNHQ8ZGDd6EjIIEeb7cas)
 - [Face Filter - Blink Running Game with AR Spark Studio - SIBATUR](https://github.com/sibaturaspirman/facefilter-blinkrunninggame)
 - [Color lookup tables (LUTs) - PositLabs](https://github.com/positlabs/spark-lut-patch?fbclid=IwAR0HAMyquOkOpS4zHRgkdQ9ue99wnR0SO5ChYSeSqyandIrC05S9vGfCqzc)
 - [Flickr Sphere - PositLabs](https://github.com/positlabs/spark-flickr-sphere?fbclid=IwAR1fk6GoN5EDCcU64pmPMWwnQRFvyW9LiWwWsxfuGmzI9cykBnAMId2OL9c)
@@ -84,6 +88,9 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 - [Solution to each tutorial on the AR Studio website - ](https://github.com/Jam3/interns-ar-studio-tutorials)
 - [Some utility patches for Spark AR - Muhammad Syahman](https://github.com/fukarinka/spark-ar-patches)
 
+### Gumroad
+- [Robbie C - All Free](https://gumroad.com/conceptuel?fbclid=IwAR0QYoMdoBp0pc2M9wqEqdpRPZcal47gs9bbXBkDmGEvFpct1hbFvJj425Q)
+- [Raymond Leung - Paid](https://gumroad.com/_rayleung?fbclid=IwAR0fj_UQ8zaMZuMRk7FQh3KRCe1hC_VO5_aZhzYXn87RfJliAPV3ZnOXX1c)
 
 
 ### Guidelines
