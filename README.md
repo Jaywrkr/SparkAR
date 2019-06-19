@@ -3,6 +3,7 @@ All you need to start and improve your skills in SparkAR!!!
 
 
 NOTE: If you want to upload your filters/effects to Instagram you need to submit a request/invitation for being part of the Instagram Beta Program in [here](https://www.facebook.com/arp/ig/beta?hc_location=ufi). Waiting time in average is 3/4 months.
+You can check [Luke Hurd article where he explains everything you need to know about Instagram filters](How to publish filters on Instagram)
 
 - [Official Documentation](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#official-documentation)
 - [Useful Links](https://github.com/Jaywrkr/SparkAR/blob/master/README.md#useful-links)
@@ -40,11 +41,13 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 - [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 
 ### Videos
+- [Native UI Sparkar Instagram only - Franceso Laterza](https://www.youtube.com/watch?v=IJFodki_4uI&feature=youtu.be&fbclid=IwAR3lo-tAuBR7xcB8AD3KHliR5hhUmHIQlW0rToK1FIT_0RGCDv6Xwv8rTM0)
 - [How to walk a client through to giving you permission to manage effects on their page - Casie Lane Millhouse-Singh](https://www.facebook.com/groups/SparkARcommunity/permalink/605104953234884/)
 - [AR WhokShop - Eugene Soh](https://www.facebook.com/VisitSingaporeIN/videos/827895747558162/)
 - [Facebook Spark AR HDRI Environment / Glass Shader Tutorial - Mate Steinforth
 ](https://www.youtube.com/watch?v=hImMgRb6TEk&t=1s)
 - [Pro Tips for Creating in Spark AR Studio - facebook for developers](https://developers.facebook.com/videos/2019/pro-tips-for-creating-in-spark-ar-studio/)
+
 
 
 ### Communities
@@ -63,6 +66,8 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 - [English Telegram commmunity](https://t.me/sparkarenglish?fbclid=IwAR0W7u2ewhqm-D1YE4STI1mnKisLKSi-hkvvD19acXTsfuiFJALvsX4pmkc)
 
 ### Articles
+- [How to publish filters on Instagram - Luke Hurd](https://medium.com/@lukehurd/how-to-publish-filters-on-instagram-e4f6c8f44823?fbclid=IwAR3kP1z2EweaPuSj-f4WTFpyJt09y-_olnrgzU6Eq5UzAPyUFopOna4D9c8)
+- [Spark AR x Webpack - Ashley Fletcher](https://medium.com/byte-mission-control/spark-ar-x-webpack-3ba4dcd05a37?fbclid=IwAR3IMNEwqnrwP_CfzRrwI5HqOhR46IirXv8HS-NY1jDqqejotb5zry_bxvs)
 - [Gaussian Blur on Spark AR Studio - Hayato Kuno](https://medium.com/birdman-inc/gaussian-blur-on-spark-ar-studio-833e171160d5?fbclid=IwAR3izq-tgxjE7iNAlPHjzQ5JPWQwNbMKh9acUp6SdZMNwjsIWI7aW8sw0IU)
 - [10 Things You Need To Know About Spark AR - Diego Aguirre](https://medium.com/@geekydiego/10-things-you-need-to-know-about-spark-ar-baad07b2a293?fbclid=IwAR2iXeL7EccsE4MTUFbXYJ1WSYXcsUK0uqFSZ9d3yM1HFOGkEDv9ngJYF3k)
 - [How to connect Spark AR Studio(Facebook) to Backend Server, Firebase Database - Seunghun Sunmoon Lee](https://medium.com/@seunghunsunmoonlee/how-to-connect-spark-ar-studio-facebook-to-backend-server-database-4de75b5ef20f)
@@ -99,7 +104,8 @@ NOTE: If you want to upload your filters/effects to Instagram you need to submit
 ### Inspiration
 - [@zach.lieberman](https://www.instagram.com/zach.lieberman/)
 - [@alicein3dland](https://www.instagram.com/alicein3dland/)
-- [@jaywrkr](https://www.instagram.com/jaywrkr/)
+- [@lukehurd](https://www.instagram.com/lukehurd)
+- [@jaywrkrdesign](https://www.instagram.com/jaywrkrdesign/)
 - [@marcwakefieldards](https://www.instagram.com/marcwakefieldards/)
 - [@A.H.Mitchell](https://www.instagram.com/A.H.Mitchell/)
 - [@after_form](https://www.instagram.com/after_form/)
